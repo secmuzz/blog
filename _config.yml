@@ -15,6 +15,7 @@ minima:
 
 
   lang: en-GB
+  timezone: Europe/Lisbon
 
   # generate social links in footer
   social_links:
@@ -66,4 +67,4 @@ plugins:
  - jekyll-target-blank
 
 url: 'https://secmuzz.github.io/'
-baseurl: '/mini-demo'
+baseurl: '/blog'
