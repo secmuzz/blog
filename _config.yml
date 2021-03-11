@@ -64,7 +64,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-target-blank
 
 url: 'https://secmuzz.github.io/'
 baseurl: '/blog'

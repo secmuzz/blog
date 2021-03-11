@@ -57,11 +57,11 @@ After running this a grunt running as SYSTEM should now be returned!
 
 ### Links & Resources
 
-* <https://gracefulsecurity.com/windows-desktop-breakout/>
-* <https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/>
-* <https://www.pentestpartners.com/security-blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/>
-* <https://github.com/FuzzySecurity/DefCon24>
-* <https://github.com/cobbr/Covenant>
+* <https://gracefulsecurity.com/windows-desktop-breakout/>{:target="_blank"}
+* <https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/>{:target="_blank"}
+* <https://www.pentestpartners.com/security-blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/>{:target="_blank"}
+* <https://github.com/FuzzySecurity/DefCon24>{:target="_blank"}
+* <https://github.com/cobbr/Covenant>{:target="_blank"}
 
 
 [UltimateAppLockerByPassList]: https://github.com/api0cradle/UltimateAppLockerByPassList
